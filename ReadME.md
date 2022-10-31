@@ -8,4 +8,4 @@
 
 ## The Daily Stoic by Ryan Holiday 📚
 
-- [x] Courage is Calling
+- [x] Courage is Calling  
