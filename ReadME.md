@@ -7,3 +7,5 @@
 ## Courage is calling by Ryan Holiday 📚
 
 ## The Daily Stoic by Ryan Holiday 📚
+
+- [x] Courage is Calling
