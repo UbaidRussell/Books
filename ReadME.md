@@ -6,5 +6,7 @@
 - [x] The Daily Stoic by Ryan Holiday
 - [x] Sold by Patricia McCormick
 - [x] Stillness is Key by Ryan Holiday
+- [x] HTML and CSS by Jon Duckett
+- [x] Javascript and Jquery by Jon Duckett
 - [ ] Courage is Calling by Ryan Holiday 📖
 - [ ] The $100 Startup by Chris Guillebeau 📖
