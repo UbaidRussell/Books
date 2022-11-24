@@ -14,3 +14,4 @@
 - [ ] The Psychology of Money by Morgan Housel 
 - [ ] Unfuck Yourself by Gary Bishop
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
+- [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 
