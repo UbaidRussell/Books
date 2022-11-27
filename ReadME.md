@@ -12,6 +12,7 @@
 - [ ] Courage is Calling by Ryan Holiday 📖
 - [ ] The $100 Startup by Chris Guillebeau 📖
 - [ ] The Psychology of Money by Morgan Housel 
+- [ ] How to Build a Billion Dollar app by George Berkowski
 - [ ] Unfuck Yourself by Gary Bishop
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 
