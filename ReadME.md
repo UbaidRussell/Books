@@ -16,3 +16,4 @@
 - [ ] Unfuck Yourself by Gary Bishop
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 
+- [ ] The Elements of user experience by Jesse James Garrett
