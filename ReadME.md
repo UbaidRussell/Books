@@ -11,9 +11,9 @@
 - [x] Rich Dad Poor Dad by Robert Kiyosaki
 - [ ] Courage is Calling by Ryan Holiday 📖
 - [ ] The $100 Startup by Chris Guillebeau 📖
+- [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 📖
 - [ ] The Psychology of Money by Morgan Housel 
 - [ ] How to Build a Billion Dollar app by George Berkowski
 - [ ] Unfuck Yourself by Gary Bishop
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
-- [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 
 - [ ] The Elements of user experience by Jesse James Garrett
