@@ -10,7 +10,7 @@
 - [x] Javascript and Jquery by Jon Duckett
 - [x] Rich Dad Poor Dad by Robert Kiyosaki
 - [ ] Courage is Calling by Ryan Holiday 📖
-- [ ] The $100 Startup by Chris Guillebeau 📖
+- [x] The $100 Startup by Chris Guillebeau
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 📖
 - [ ] The Psychology of Money by Morgan Housel 
 - [ ] How to Build a Billion Dollar app by George Berkowski
