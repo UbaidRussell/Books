@@ -9,7 +9,7 @@
 - [x] HTML and CSS by Jon Duckett
 - [x] Javascript and Jquery by Jon Duckett
 - [x] Rich Dad Poor Dad by Robert Kiyosaki
-- [ ] Courage is Calling by Ryan Holiday 📖
+- [x] Courage is Calling by Ryan Holiday 📖
 - [x] The $100 Startup by Chris Guillebeau
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 📖
 - [ ] The Psychology of Money by Morgan Housel 
