@@ -15,6 +15,6 @@
 - [ ] The Psychology of Money by Morgan Housel 
 - [ ] How to Build a Billion Dollar app by George Berkowski
 - [ ] Unfuck Yourself by Gary Bishop
-- [ ] Goosebumps most wanted by R.L Stine 
+- [ ] Goosebumps most wanted The Haunter by R.L Stine 
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
 - [ ] The Elements of user experience by Jesse James Garrett
