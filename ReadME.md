@@ -9,12 +9,14 @@
 - [x] HTML and CSS by Jon Duckett
 - [x] Javascript and Jquery by Jon Duckett
 - [x] Rich Dad Poor Dad by Robert Kiyosaki
-- [x] Courage is Calling by Ryan Holiday 📖
+- [x] Courage is Calling by Ryan Holiday 
 - [x] The $100 Startup by Chris Guillebeau
-- [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter 📖
+- [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter (Mid day 📖)
 - [ ] The Psychology of Money by Morgan Housel 
 - [ ] How to Build a Billion Dollar app by George Berkowski
-- [ ] Unfuck Yourself by Gary Bishop
+- [x] Unfuck Yourself by Gary Bishop
 - [x] Goosebumps most wanted The Haunter by R.L Stine 
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
 - [ ] The Elements of user experience by Jesse James Garrett
+- [ ] Goosebumps Escape from Shudder Mansion (Night 📖)
+- [ ] Fredrick Douglass Selected works (Morning 📖)
