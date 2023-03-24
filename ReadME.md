@@ -18,5 +18,5 @@
 - [x] Goosebumps most wanted The Haunter by R.L Stine 
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
 - [ ] The Elements of user experience by Jesse James Garrett
-- [ ] Goosebumps Escape from Shudder Mansion (Night 📖)
+- [x] Goosebumps Escape from Shudder Mansion (Night 📖)
 - [ ] Fredrick Douglass Selected works (Morning 📖)
