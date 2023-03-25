@@ -13,10 +13,10 @@
 - [x] The $100 Startup by Chris Guillebeau
 - [ ] Gödel, Escher, Bach: An Eternal Golden Braid by Douglass Hofstadter (Mid day 📖)
 - [ ] The Psychology of Money by Morgan Housel 
-- [ ] How to Build a Billion Dollar app by George Berkowski
+- [ ] How to Build a Billion Dollar app by George Berkowski (Night 📖)
 - [x] Unfuck Yourself by Gary Bishop
 - [x] Goosebumps most wanted The Haunter by R.L Stine 
 - [ ] Principles for Dealing with the Changing World Order by Ray Dialio  
 - [ ] The Elements of user experience by Jesse James Garrett
-- [x] Goosebumps Escape from Shudder Mansion (Night 📖)
+- [x] Goosebumps Escape from Shudder Mansion
 - [ ] Fredrick Douglass Selected works (Morning 📖)
