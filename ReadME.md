@@ -20,3 +20,4 @@
 - [ ] The Elements of user experience by Jesse James Garrett
 - [x] Goosebumps Escape from Shudder Mansion
 - [ ] Fredrick Douglass Selected works (Morning 📖)
+- [ ] The Seven Spiritual Laws of Success by Deepak Chopra
