@@ -24,3 +24,4 @@
 - [ ] By The River Piedra I Sat Down And Wept by Paulo Coelho
 - [ ] Intimacy by OSHO 
 - [ ] The Intelligent Investor By Benjamin Graham 
+- [x] The Richest man in Babylon by George S. Clason
