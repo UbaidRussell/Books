@@ -20,7 +20,7 @@
 - [ ] The Elements of user experience by Jesse James Garrett
 - [x] Goosebumps Escape from Shudder Mansion
 - [ ] Fredrick Douglass Selected works (Morning 📖)
-- [ ] The Seven Spiritual Laws of Success by Deepak Chopra
+- [x] The Seven Spiritual Laws of Success by Deepak Chopra
 - [ ] By The River Piedra I Sat Down And Wept by Paulo Coelho
 - [ ] Intimacy by OSHO 
 - [ ] The Intelligent Investor By Benjamin Graham 
