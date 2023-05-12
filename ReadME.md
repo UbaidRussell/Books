@@ -21,7 +21,7 @@
 - [x] Goosebumps Escape from Shudder Mansion
 - [ ] Fredrick Douglass Selected works (Morning 📖)
 - [x] The Seven Spiritual Laws of Success by Deepak Chopra
-- [ ] By The River Piedra I Sat Down And Wept by Paulo Coelho
+- [x] By The River Piedra I Sat Down And Wept by Paulo Coelho
 - [ ] Intimacy by OSHO 
 - [ ] The Intelligent Investor By Benjamin Graham 
 - [x] The Richest man in Babylon by George S. Clason
