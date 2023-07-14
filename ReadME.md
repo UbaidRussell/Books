@@ -1,4 +1,4 @@
-# My list of books. (📖 = Reading now)
+# Reading List (📖 = Reading now)
 
 - [x] The Alchemist by Paulo Coelho
 - [x] Turtles all the way down by John Green
